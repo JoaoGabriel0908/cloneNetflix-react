@@ -72,11 +72,11 @@ export default () => {
             </footer>
 
             {/* Quando nao carregar os filmes, ele ira ativar o loading */}
-            {movieList.length <= 0 &&
+            {/* {movieList.length <= 0 &&
             <div className="loading">
                 <img src="https://www.rchandru.com/images/portfolio/loading.gif" alt="carregando"/>
             </div>
-            }
+            } */}
         </div>
 
     );
