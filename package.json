@@ -1,7 +1,7 @@
 {
   "name": "netflixclone",
   "version": "0.1.0",
-  "homepage": "homepage: https://JoaoGabriel0908.github.io/cloneNetflix",
+  "homepage": "https://JoaoGabriel0908.github.io/cloneNetflix",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.0",
