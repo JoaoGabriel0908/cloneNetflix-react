@@ -82,3 +82,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # netflixclone
 # netflixclone
 # netflixclone
+# cloneNetflix-react
